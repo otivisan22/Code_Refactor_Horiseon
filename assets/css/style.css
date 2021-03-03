@@ -103,19 +103,9 @@ p {
 }
 
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost{
     display: block;
     margin: 10px auto;
     max-width: 150px;
