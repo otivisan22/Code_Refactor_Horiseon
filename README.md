@@ -3,7 +3,7 @@
 # Project Link
 
 Click here to view project on GitHub Pages
-https://otivisan22.github.io/homework_1/
+https://otivisan22.github.io/Code_Refactor_Horiseon/
 
 # Horiseon Project
 
@@ -19,7 +19,7 @@ This is a summary of the refactoring Horiseon SEO Consultants.
 - Open the project into VSCode
 - Open the 'index.html' into your default browser
 
-git clone git@github.com: https://github.com/otivisan22/homework_1
+git clone git@github.com: git@github.com:otivisan22/Code_Refactor_Horiseon.git
 cd homework_1
 code .
 
