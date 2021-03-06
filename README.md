@@ -4,7 +4,7 @@
 
 ## Description
 
-As a marketing agency we were tasked to refactor the page for Horiseon by adding Semantic HTML and making the website more accessible.
+As a marketing agency we were tasked to refactor the page for Horiseon by adding Semantic HTML elements and making the website more accessible.
 This is a summary of the refactoring Horiseon SEO Consultants.
 
 # Getting started
