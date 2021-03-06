@@ -1,4 +1,4 @@
-# Homework 1 - Refactor
+# Code Refactor Horiseon Project
 
 # Project Link
 
