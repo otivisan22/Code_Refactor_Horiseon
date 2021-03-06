@@ -32,11 +32,14 @@ code .
 - Formatted code using lint (prettier)
 - Consolidated and refactored the CSS style according to semantic HTML elements
 - Commented the styling that has been refactored
+- Regrouping the selectors into one block of codes based on the repetitive content
 
 ## Code Before/After
 
 ![screenshot1](./assets/images/before_refactor1.png)
 ![screenshot1](./assets/images/after_refactor1.png)
+![screenshot1](./assets/images/before_refactor2.png)
+![screenshot1](./assets/images/after_refactor2.png)
 
 # Screenshots
 
