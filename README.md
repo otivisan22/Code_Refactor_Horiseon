@@ -30,8 +30,13 @@ code .
 - Fixed Nav Link Bug
 - Made the images more accessible by adding alt attributes
 - Formatted code using lint (prettier)
+- Consolidated and refacturated the CSS style according to semantic HTML elements
+- Commented the styling that has been refacturated
 
 ## Code Before/After
+
+![screenshot1](./assets/images/before_refactor1.png)
+![screenshot1](./assets/images/after_refactor1.png)
 
 # Screenshots
 
