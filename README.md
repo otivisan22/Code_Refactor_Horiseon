@@ -1,5 +1,10 @@
 # Homework 1 - Refactor
 
+# Project Link
+
+Click here to view project on GitHub Pages
+https://github.com/otivisan22/homework_1/settings
+
 # Horiseon Project
 
 ## Description
@@ -25,12 +30,8 @@ code .
 - Fixed Nav Link Bug
 - Made the images more accessible by adding alt attributes
 - Formatted code using lint (prettier)
--
 
-# Project Link
-
-Click here to view project on GitHub Pages
-https://github.com/otivisan22/homework_1/settings
+## Code Before/After
 
 # Screenshots
 
