@@ -3,7 +3,7 @@
 # Project Link
 
 Click here to view project on GitHub Pages
-https://github.com/otivisan22/homework_1/settings
+https://otivisan22.github.io/homework_1/
 
 # Horiseon Project
 
