@@ -14,7 +14,7 @@ This is a summary of the refactoring Horiseon SEO Consultants.
 
 # Getting started
 
-- Clone the GitHub project on to your local machine
+- Clone the GitHub project into your local machine
 - Navigate into the project
 - Open the project into VSCode
 - Open the 'index.html' into your default browser
@@ -30,8 +30,8 @@ code .
 - Fixed Nav Link Bug
 - Made the images more accessible by adding alt attributes
 - Formatted code using lint (prettier)
-- Consolidated and refacturated the CSS style according to semantic HTML elements
-- Commented the styling that has been refacturated
+- Consolidated and refactored the CSS style according to semantic HTML elements
+- Commented the styling that has been refactored
 
 ## Code Before/After
 
@@ -42,3 +42,8 @@ code .
 
 There are two screenshots stick together
 ![screenshot1](./assets/images/finished_screenshot.png)
+
+# Testing
+
+- A series of tests were performed and established after each change of html elements to semantic HTML elements
+- A number of tests were performed after refactoring the styling of the page according to the semantic HTML elements.
